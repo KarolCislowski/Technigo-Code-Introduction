@@ -1,1 +1,0 @@
-# Technigo-Code-Introduction

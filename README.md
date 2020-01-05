@@ -1,6 +1,6 @@
 # Technigo-Code-Introduction
 
-##Simple website created as an attachment to course application.
+## Simple website created as an attachment to course application.
 
 Used Technologies:
 - HTML5
